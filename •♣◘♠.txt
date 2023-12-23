@@ -1,3 +1,6 @@
 3f1c650c-baae-4a3a-80f3-12affa9d7113 //rayzera
 af8bfe94-d3cd-4dcf-a586-820336a8ace2 //luthyla
 7c141a58-4394-4dca-9d57-26a81b8a2abd //tequila mbro
+
+S-1-5-21-259347661-39583134-2491209430-1001 //jota
+775eecda-83b9-48cf-8c88-af89a9bcb3ec //jota
