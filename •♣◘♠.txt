@@ -26,3 +26,4 @@ d64a8ea1-ee59-4ef1-9e0e-b8810f1ff2fc //Aluisio Pires
 f6ecb5cf-6d1c-42a0-857d-151ab487984f //Matheusditto me deve 235,00 dia 5
 
 f4d8a606-6b45-4312-82ed-cde91e333dea //rub
+S-1-5-21-3478913722-3247753129-3637194582-1002 //Paprika
